@@ -1,0 +1,116 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-09-19T18:06:59.687Z",
+    "end": "2022-09-19T18:06:59.825Z",
+    "duration": 138
+  },
+  "tests": [
+    {
+      "title": "1. El objeto contador existe",
+      "fullTitle": "index.js 1. El objeto contador existe",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2. El objeto bird existe",
+      "fullTitle": "index.js 2. El objeto bird existe",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3. La propiedad color de bird es 'azul'",
+      "fullTitle": "index.js 3. La propiedad color de bird es 'azul'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "4. La propiedad decenas de contador es 2",
+      "fullTitle": "index.js 4. La propiedad decenas de contador es 2",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "5. La propiedad nombre de bird es 'Pedro",
+      "fullTitle": "index.js 5. La propiedad nombre de bird es 'Pedro",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "6. El objeto contador fue actualizado con las propiedades indicadas",
+      "fullTitle": "index.js 6. El objeto contador fue actualizado con las propiedades indicadas",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "7. El objeto bird fue actualizado con las propiedades indicadas",
+      "fullTitle": "index.js 7. El objeto bird fue actualizado con las propiedades indicadas",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "1. El objeto contador existe",
+      "fullTitle": "index.js 1. El objeto contador existe",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "2. El objeto bird existe",
+      "fullTitle": "index.js 2. El objeto bird existe",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "3. La propiedad color de bird es 'azul'",
+      "fullTitle": "index.js 3. La propiedad color de bird es 'azul'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "4. La propiedad decenas de contador es 2",
+      "fullTitle": "index.js 4. La propiedad decenas de contador es 2",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "5. La propiedad nombre de bird es 'Pedro",
+      "fullTitle": "index.js 5. La propiedad nombre de bird es 'Pedro",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "6. El objeto contador fue actualizado con las propiedades indicadas",
+      "fullTitle": "index.js 6. El objeto contador fue actualizado con las propiedades indicadas",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "7. El objeto bird fue actualizado con las propiedades indicadas",
+      "fullTitle": "index.js 7. El objeto bird fue actualizado con las propiedades indicadas",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
